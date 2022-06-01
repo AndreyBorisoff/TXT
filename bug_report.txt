@@ -1,0 +1,17 @@
+Summary: Отсутствует ссылка "Справка" в попап-окне при попытке очистки папки "Удаленные".
+Project: "Яндекс".
+Component: "Яндекс.Почта".
+Version": "52.0.0".
+Severity: minor (S5).
+Priority: medium (P2).
+Status: new.
+Author: "Borisov Andrei".
+Assigned to: "".
+Description:
+    - environment: Microsoft Windows NT 10.0.19044.0/Google Chrome 102.0.5005.62, x64.
+    - preconditions: Пользователь авторизован. Открыта папка "Удаленные". В папке есть письма.
+    - steps to reproduce:
+      1) Нажать на кнопку "Очистить" справа от названия папки "Удаленные".
+    - expected result: Появляется попап с кнопками: Очистить, Отменить и ссылкой Справка.
+    - actual result: Появляется попап с кнопками: Очистить, Отменить; ссылка Справка отсутствует.
+Attachment: https://disk.yandex.ru/i/DQxIddhNePFEDQ

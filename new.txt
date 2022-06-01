@@ -1,0 +1,4 @@
+Full name - Borisov Andrei Alexandrovich,
+Age - 42,
+Number of pets - 0,
+Expected salary - 50000.
